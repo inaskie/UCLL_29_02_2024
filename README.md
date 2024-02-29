@@ -1,10 +1,11 @@
 "# UCLL_29_02_2024" 
 TODO
 
-Update file
+Merge file
 
 Steps:
-* Change file locally
+* Change file Github
+* Change file Locally
 * Add & commit file
 * Push file
-* See your amazing changes in Github
+* Resolve merge conflict
